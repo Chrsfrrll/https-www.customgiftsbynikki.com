@@ -1,0 +1,4 @@
+$ cd railsgirls.github.io$ bundle install{% highlight %}
+{% endhighlight %}{% coach %}
+Add helpful text here for the coach!
+{% endcoach %}$ bundle exec jekyll server --watchTo shut down the server you can hit <kbd>Ctrl</kbd>+<kbd>C</kbd>
